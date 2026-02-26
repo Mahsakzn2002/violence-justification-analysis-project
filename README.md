@@ -1,13 +1,28 @@
-This repository analyzes patterns in attitudes toward the justification of violence across demographic groups (e.g., gender, residence) and provides cross-country comparisons.
+# Violence Justification Data Analysis
 
-Methods include data cleaning, exploratory analysis, and visualization to highlight regional and global trends.
+This project analyzes cross-country and demographic patterns in attitudes toward the justification of violence.
 
-Data: [Name/source of dataset + link]. (Data files are not included in this repo due to licensing restrictions.)
+## Overview
+The study explores how violence justification varies across:
+- Gender
+- Urban vs. rural residence
+- Age and marital status
+- Socioeconomic factors
+- Cross-country comparisons
 
-Key outputs
+## Methods
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Comparative statistical analysis
+- Visualization of regional and global trends
 
-Comparison of attitudes by gender and residence (urban/rural)
+## Key Insights
+- Significant gender-based variation in reported attitudes
+- Noticeable rural–urban differences
+- Cross-country disparities highlighting cultural and socioeconomic influences
 
-Cross-country ranking / regional trend exploration
-
-Summary insights for interpretation and reporting
+## Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
